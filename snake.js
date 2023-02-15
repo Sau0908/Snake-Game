@@ -146,4 +146,4 @@ function gameloop(){
 
 init();
 //Manage the Intervals and Snake Speed...
-var f = setInterval(gameloop, 100);
+var f = setInterval(gameloop, 200);
